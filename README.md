@@ -1,0 +1,1 @@
+Automação de testes web utilizando o Robot Framework com Selenium, teste no site do Kabum passando por três cenários: Acesso a página de login, Pesquisa de um Produto e Adicionar um produto no carrinho.
